@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DestroyOnCollision : MonoBehaviour
+public class DetectCollisions : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
